@@ -4,6 +4,6 @@ Analista Infraestrutura de Redes e Segurança @Coopercitrus.
 
 [![Twitter Badge](https://img.shields.io/badge/-@dieegosf-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/Samuel02199550)](https://twitter.com/Samuel02199550) 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/diego-schell-fernandes/) -->
-[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samuelfernandesotaviano@gmail.com)](mailto:samuelfernandesotaviano@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-samuelfernandesotaviano@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samuelfernandesotaviano@gmail.com)](mailto:samuelfernandesotaviano@gmail.com)
 
 - 🌱 Atualmente estou aprendendo ...
