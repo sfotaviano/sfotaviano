@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 
 Analista Infraestrutura de Redes e Segurança @Coopercitrus
 
-@Samuel02199550 Badge Linkedin Badge Gmail Badge
 - 🌱 Atualmente estou aprendendo ...
