@@ -9,4 +9,5 @@ Analista de Sistemas @Crossdev.
 Explorer of the best web and mobile development technologies.
 
 Developer Full Stack Java Script ( React )
+
 I am currently learning ...
